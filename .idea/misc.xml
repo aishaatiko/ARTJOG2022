@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1965" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1965" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/activity_about_page.xml" value="0.20153985507246377" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/activity_creation_detail.xml" value="0.25" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/activity_participant_detail.xml" value="0.15715579710144928" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/activity_splash_screen.xml" value="0.20153985507246377" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/item_grid_gallery.xml" value="0.17074275362318841" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/layout/item_row_participant.xml" value="0.17074275362318841" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/menu/menu_artist.xml" value="0.209375" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/menu/menu_detail.xml" value="0.17395833333333333" />
+        <entry key="..\:/DicodingAcademy/AndroidPemula/ARTJOG2022/app/src/main/res/menu/menu_main.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

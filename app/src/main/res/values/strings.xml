@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ARTJOG 2022</string>
+    <string name="participant_name">Nama Partisipan</string>
+    <string name="creation">Karya</string>
+    <string name="bio">Biografi</string>
+    <string name="creation_title">Judul Karya</string>
+    <string name="artist">Artist</string>
+    <string name="creation_description">Deskripsi</string>
+    <string name="gallery_photo">Foto Galeri</string>
+    <string name="participant">Participants</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">About</string>
+    <string name="about_page_name">Aisyah Nur Atiko</string>
+    <string name="about_page_email">aisya_h@outlook</string>
+    <string name="artist_detail">Artist Detail</string>
+    <string name="material">Material</string>
+    <string name="dimension">Dimension</string>
+    <string name="share">Share</string>
+    <string name="more_info">More Info</string>
+</resources>
